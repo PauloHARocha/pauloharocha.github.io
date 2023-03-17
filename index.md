@@ -1,10 +1,14 @@
 ## Paulo Rocha
 
+
+<img src="github_photo.jpg" alt="" height="200" align="right"/>
+
 Graduate Student Researcher<br />
 Heart Failure Program<br />
 Department of Internal Medicine <br />
 University of California, Davis<br />
 phrocha@ucdavis.edu
+
 
 - [Github](https://github.com/PauloHARocha)
 - [Linkedin](https://linkedin.com/in/rocha-paulo)
@@ -36,8 +40,14 @@ Lima GA, Monteiro RP, **Rocha P**, Lins AJCC, Bastos-Filho CJA. Mild Cognitive I
 
 ## Work Experience
 
-- Graduate Student Researcher - UC Davis
+**Graduate Student Researcher**<br />
+University of California Davis<br />
+October 2021 - Now
 
-- Reseach Scholar - UC Davis
+**Reseach Scholar**<br />
+University of California Davis<br />
+October 2019 - February 2021
 
-- Data Scientist - Data Science Brigade
+**Data Scientist**<br />
+Data Science Brigade<br />
+June 2019 - September 2019
