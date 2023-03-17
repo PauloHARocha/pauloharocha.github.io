@@ -1,9 +1,9 @@
 ## Paulo Rocha
 
-Graduate Student Researcher
-Heart Failure Program
-Department of Internal Medicine 
-University of California, Davis
+Graduate Student Researcher<br />
+Heart Failure Program<br />
+Department of Internal Medicine <br />
+University of California, Davis<br />
 phrocha@ucdavis.edu
 
 - [Github](https://github.com/PauloHARocha)
