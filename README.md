@@ -14,16 +14,23 @@ phrocha@ucdavis.edu
 ## Education
 
 **University of California, Davis**
+
 M.S. in Biostatistics
+
 October 2021 - Now
 
 **University of Pernambuco, Brazil**
+
 M.S. in Systems Engineering
+
 Thesis: *Towards a Data Driven Framework for Automatic Clustering Analysis*
+
 March 2018 - February 2020
 
 **University of Amazonas, Brazil**
+
 B.S. in Computer Engineering
+
 February 2013 - February 2018
 
 ## Publications
